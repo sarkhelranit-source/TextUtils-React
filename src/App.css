@@ -32,7 +32,29 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+nav.container {
+  color: rgb(8, 0, 11);
+  display: flex;
+  background-color: rgb(19, 231, 19);
+  width: 100%;
+}
+
+div.container {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+li {
+  padding-left: 0px;
+  margin: 20px;
+}
+
+button {
+  margin-right: 5px;
 }
