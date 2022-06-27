@@ -50,11 +50,7 @@ div.container {
   margin-left: 50px;
 }
 
-li {
-  padding-left: 0px;
-  margin: 20px;
+button.btn {
+  margin-right: 7px;
 }
 
-button {
-  margin-right: 5px;
-}
